@@ -1,3 +1,6 @@
+<h1 align="center">Anon404 is a brand 🤙 Anon404</h1>
+<h3 align="center">We are unidentified, Anon404 🎭</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrz724&label=Profile%20views&color=0e75b6&style=flat" alt="mrz724" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrz724" alt="mrz724" /></a> </p>
@@ -20,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrz724&show_icons=true&locale=en&layout=compact" alt="mrz724" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrz724&show_icons=true&locale=en" alt="mrz724" /></p>
-
