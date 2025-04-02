@@ -11,7 +11,7 @@ Anon404 is a brand 🤙🎭<br>We are unidentified <br>We are against government
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anon-404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anon-404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anon-404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anon-404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=18)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Anon-404&limit=5&theme=dark&combine_all_yearly_contributions=true)
