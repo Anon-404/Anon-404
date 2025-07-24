@@ -22,12 +22,6 @@ Anon404 is a brand 🤙🎭<br>We are unidentified <br>We are against government
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Metasploit](https://img.shields.io/badge/Metasploit-4A4A55?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white) ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Artix Linux](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=arch-linux&logoColor=white) 
-![BlackArch](https://img.shields.io/badge/BlackArch-%23000000?style=for-the-badge&logo=arch-linux&logoColor=red)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Anon-404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anon-404&theme=dark&hide_border=false)<br/>
