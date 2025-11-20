@@ -1,5 +1,5 @@
 # 💫 Anon404🎭:
-Anon404 is a brand 🤙🎭<br>We are unidentified <br>We are against government <br>We are against None-Muslims <br>We are voice of voiceless 
+Anon404 is a brand 🤙🎭<br>We are the unseen. We speak truth in silence.<br>We stand for freedom. We stand for truth.<br> 
 
 
 ## 🌐 Socials:
